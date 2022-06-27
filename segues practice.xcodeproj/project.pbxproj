@@ -14,6 +14,7 @@
 		BD6CF70B2864E97C0061B64C /* segues_practice.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BD6CF7092864E97C0061B64C /* segues_practice.xcdatamodeld */; };
 		BD6CF70D2864E97D0061B64C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD6CF70C2864E97D0061B64C /* Assets.xcassets */; };
 		BD6CF7102864E97D0061B64C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD6CF70E2864E97D0061B64C /* LaunchScreen.storyboard */; };
+		BD6CF7182864EEC30061B64C /* mysecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD6CF7172864EEC30061B64C /* mysecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BD6CF70C2864E97D0061B64C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD6CF70F2864E97D0061B64C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD6CF7112864E97D0061B64C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD6CF7172864EEC30061B64C /* mysecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mysecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				BD6CF7022864E97C0061B64C /* SceneDelegate.swift */,
 				BD6CF7042864E97C0061B64C /* ViewController.swift */,
 				BD6CF7062864E97C0061B64C /* Main.storyboard */,
+				BD6CF7172864EEC30061B64C /* mysecondViewController.swift */,
 				BD6CF70C2864E97D0061B64C /* Assets.xcassets */,
 				BD6CF70E2864E97D0061B64C /* LaunchScreen.storyboard */,
 				BD6CF7112864E97D0061B64C /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD6CF7182864EEC30061B64C /* mysecondViewController.swift in Sources */,
 				BD6CF7052864E97C0061B64C /* ViewController.swift in Sources */,
 				BD6CF7012864E97C0061B64C /* AppDelegate.swift in Sources */,
 				BD6CF70B2864E97C0061B64C /* segues_practice.xcdatamodeld in Sources */,
